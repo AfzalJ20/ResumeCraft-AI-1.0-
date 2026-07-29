@@ -1,0 +1,34 @@
+/* Fade In */
+@keyframes fadeIn {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+
+/* Slide Up */
+@keyframes slideUp {
+from {
+    transform: translateY(25px);
+    opacity: 0;
+}
+to {
+    transform: translateY(0);
+    opacity: 1;
+}
+}
+
+/* Floating Animation */
+@keyframes floating {
+0% {
+    transform: translateY(0px);
+}
+50% {
+    transform: translateY(-12px);
+}
+100% {
+    transform: translateY(0px);
+}
+}
