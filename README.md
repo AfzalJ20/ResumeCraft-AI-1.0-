@@ -231,3 +231,13 @@ If you found this project useful, please consider giving it a ⭐ on GitHub.
 # 📄 License
 
 This project is licensed under the MIT License.
+
+
+
+Copyright © 2026 Javid Afzal J.
+
+All Rights Reserved.
+
+ResumeCraft AI was designed and developed by Javid Afzal J as an academic and portfolio project. Unauthorized commercial redistribution without proper attribution is discouraged.
+
+Licensed under the MIT License.
